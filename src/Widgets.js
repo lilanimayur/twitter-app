@@ -27,8 +27,8 @@ function Widgets() {
         />
 
         <TwitterShareButton
-          url={"https://facebook.com/cleverprogrammer"}
-          options={{ text: "#cricket is awesome", via: "ImRo45" }}
+          url={""}
+          options={{ text: "#Live life king size", via: "mayur_lilani" }}
         />
       </div>
     </div>
